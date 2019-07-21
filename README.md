@@ -34,7 +34,7 @@
 
 A simple project based in **_Data Science_** and **_Data Analysis_** for **_Criminology_** worldwide. This project was built using [**_Jupyter Notebook_**](https://jupyter.org/) and [**_Python_**](https://www.python.org/), with the support of some _libraries_ for **_Data Science_** and **_Data Visualisation_**, like [**_NumPy_**](https://numpy.org/), [**_Matplotlib_**](https://matplotlib.org/) and [**_Pandas_**](https://pandas.pydata.org/). This project shows an intensive and detailed **_study case_** about some _indexes_, _historics_ and _data_ about **_Criminology_** in several _countries_, _states_ and _cities_, among other aspects!
 
-* The **_Study Cases_** addressed in this project, in a _total of 10 studies (divided in Countries, States and Cities)_, until the moment, as also, their respecitvely **_Reports_**, are the following:
+* The **_Study Cases_** addressed in this project, in a _total of 10 study cases (divided in Countries, States and Cities)_, until the moment, as also, their respecitvely **_Reports_**, are the following:
 
 | #  |  Country/State/City                        |  Study Case            | Folder                    |
 |:--:|:------------------------------------------:|:----------------------:|:-------------------------:|
