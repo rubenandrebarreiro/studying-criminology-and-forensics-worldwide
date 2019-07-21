@@ -1,1 +1,1 @@
-# studying-crimonology-worldwide
+# studying-criminology-worldwide
