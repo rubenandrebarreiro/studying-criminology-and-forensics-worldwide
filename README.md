@@ -38,7 +38,7 @@ A simple project based in **_Data Science_** and **_Data Analysis_** for **_Crim
 
 | #  |  Country/State/City                        |  Study Case            | Folder                    |
 |:--:|:------------------------------------------:|:----------------------:|:-------------------------:|
-| 1  | Portugal                                   | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/blob/master/criminology-portugal/Criminology%20in%20Portugal%20-%202011.ipynb)                   |             | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/tree/master/criminology-portugal)     
+| 1  | Portugal                                   | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/blob/master/criminology-portugal/Criminology%20in%20Portugal%20-%202011.ipynb)                    | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/tree/master/criminology-portugal)     |
 
 
 #### Notes:
