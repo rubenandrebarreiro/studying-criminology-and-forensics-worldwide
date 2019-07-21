@@ -34,11 +34,20 @@
 
 A simple project based in **_Data Science_** and **_Data Analysis_** for **_Criminology_** worldwide. This project was built using [**_Jupyter Notebook_**](https://jupyter.org/) and [**_Python_**](https://www.python.org/), with the support of some _libraries_ for **_Data Science_** and **_Data Visualisation_**, like [**_NumPy_**](https://numpy.org/), [**_Matplotlib_**](https://matplotlib.org/) and [**_Pandas_**](https://pandas.pydata.org/). This project shows an intensive and detailed **_study case_** about some _indexes_, _historics_ and _data_ about **_Criminology_** in several _countries_, _states_ and _cities_, among other aspects!
 
-* The **_Study Cases_** addressed in this project, in a _total of 10 study cases (divided in Countries, States and Cities)_, until the moment, as also, their respecitvely **_Reports_**, are the following:
+* The **_Study Cases_** addressed in this project, in a _total of 10 study cases (divided by Countries and States/Cities)_, until the moment, as also, their respecitvely **_Reports_** and **_Analysis_**, are the following:
 
-| #  |  Country/State/City                        |  Study Case            | Folder                    |
-|:--:|:------------------------------------------:|:----------------------:|:-------------------------:|
-| 1  | Portugal                                   | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/blob/master/criminology-portugal/Criminology%20in%20Portugal%20-%202011.ipynb)                    | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/tree/master/criminology-portugal)     |
+#### **_Countries_**
+
+| #  |  Country                        |  Study Case            | Folder                    |
+|:--:|:-------------------------------:|:----------------------:|:-------------------------:|
+| 1  | Portugal                        | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/blob/master/criminology-portugal/Criminology%20in%20Portugal%20-%202011.ipynb)                    | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/tree/master/criminology-portugal)     |
+
+#### **_States/Cities_**
+
+| #  |  State/City                   |  Study Case            | Folder                    |
+|:--:|:-----------------------------:|:----------------------:|:-------------------------:|
+| 1  | New York City (U.S.A.)        | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/blob/master/criminology-usa/criminology-nyc/Criminology%20in%20New%20York%20City%20-%202006.ipynb)                    | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/tree/master/criminology-usa/criminology-nyc/)     |
+| 2  | Rio de Janeiro (Brazil)        | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/blob/master/criminology-brazil/criminology-rio-de-janeiro/Criminology%20in%20Rio%20de%20Janeiro%20-%202017.ipynb)                    | [Click here](https://github.com/rubenandrebarreiro/studying-criminology-worldwide/tree/master/criminology-brazil/criminology-rio-de-janeiro/)     |
 
 
 #### Notes:
